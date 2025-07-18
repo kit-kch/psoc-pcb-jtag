@@ -1,6 +1,6 @@
 # PSoC JTAG Adapter PCB
 
-![PCB Render Image](render_small.png)
+![PCB Render Image](render.png)
 
 This repository contains schematic and layout for the PSoC JTAG adapter PCB.
 It is meant to be used with the [main PSoC FMC PCB](https://github.com/kit-kch/psoc-pcb-fmc) and a [Digilent JTAG HS2](https://digilent.com/shop/jtag-hs2-programming-cable/?srsltid=AfmBOorvOwsRU_3dW2jPg2jQcidQeIOP8MnjYPq41F86tJ_p7KsCbM9X) to provide easy access to the programming interface.
